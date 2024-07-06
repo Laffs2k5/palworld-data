@@ -1,0 +1,476 @@
+[
+  {
+    "InternalName": "ElementResist_Normal_1_PAL",
+    "FriendlyName": "Abnormal",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Neutral attacks"
+  },
+  {
+    "InternalName": "ElementResist_Dark_1_PAL",
+    "FriendlyName": "Cheery",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Dark attacks"
+  },
+  {
+    "InternalName": "ElementResist_Dragon_1_PAL",
+    "FriendlyName": "Dragonkiller",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Dragon attacks"
+  },
+  {
+    "InternalName": "ElementResist_Ice_1_PAL",
+    "FriendlyName": "Heated Body",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Ice attacks"
+  },
+  {
+    "InternalName": "ElementResist_Fire_1_PAL",
+    "FriendlyName": "Suntan Lover",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Fire attacks"
+  },
+  {
+    "InternalName": "ElementResist_Leaf_1_PAL",
+    "FriendlyName": "Botanical Barrier",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Grass attacks"
+  },
+  {
+    "InternalName": "ElementResist_Earth_1_PAL",
+    "FriendlyName": "Earthquake Resistant",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Ground attacks"
+  },
+  {
+    "InternalName": "ElementResist_Thunder_1_PAL",
+    "FriendlyName": "Insulated Body",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Electric attacks"
+  },
+  {
+    "InternalName": "ElementResist_Aqua_1_PAL",
+    "FriendlyName": "Waterproof",
+    "SuggestedRating": 1,
+    "Description": "-10% damage received from Water attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Normal_1_PAL",
+    "FriendlyName": "Zen Mind",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Neutral attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Dark_1_PAL",
+    "FriendlyName": "Veil of Darkness",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Dark attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Dragon_1_PAL",
+    "FriendlyName": "Blood of the Dragon",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Dragon attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Ice_1_PAL",
+    "FriendlyName": "Coldblooded",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Ice attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Fire_1_PAL",
+    "FriendlyName": "Pyromaniac",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Fire attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Leaf_1_PAL",
+    "FriendlyName": "Fragrant Foliage",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Grass attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Earth_1_PAL",
+    "FriendlyName": "Power of Gaia",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Ground attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Thunder_1_PAL",
+    "FriendlyName": "Capacitor",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Electric attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Aqua_1_PAL",
+    "FriendlyName": "Hydromaniac",
+    "SuggestedRating": 1,
+    "Description": "+10% damage dealt with Water attacks"
+  },
+  {
+    "InternalName": "ElementBoost_Normal_2_PAL",
+    "FriendlyName": "Celestial Emperor",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Neutral attacks; Paladius' signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Dark_2_PAL",
+    "FriendlyName": "Lord of the Underworld",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Dark attacks; Necromus' signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Dragon_2_PAL",
+    "FriendlyName": "Divine Dragon",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Dragon attacks; Jetragon's signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Ice_2_PAL",
+    "FriendlyName": "Ice Emperor",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Ice attacks; Frostallion's signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Fire_2_PAL",
+    "FriendlyName": "Flame Emperor",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Fire attacks; Blazamut's signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Leaf_2_PAL",
+    "FriendlyName": "Spirit Emperor",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Grass attacks; Lyleen's signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Earth_2_PAL",
+    "FriendlyName": "Earth Emperor",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Ground attacks; Anubis' signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Thunder_2_PAL",
+    "FriendlyName": "Lord of Lightning",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Electric attacks; Orserk's signature ability"
+  },
+  {
+    "InternalName": "ElementBoost_Aqua_2_PAL",
+    "FriendlyName": "Lord of the Sea",
+    "SuggestedRating": 3,
+    "Description": "+20% damage dealt with Water attacks; Jormuntide's signature ability"
+  },
+  {
+    "InternalName": "PAL_ALLAttack_up1",
+    "FriendlyName": "Brave",
+    "SuggestedRating": 1,
+    "Description": "+10% to Attack stat"
+  },
+  {
+    "InternalName": "PAL_ALLAttack_up2",
+    "FriendlyName": "Ferocious",
+    "SuggestedRating": 3,
+    "Description": "+20% to Attack stat"
+  },
+  {
+    "InternalName": "PAL_ALLAttack_down1",
+    "FriendlyName": "Coward",
+    "SuggestedRating": -1,
+    "Description": "-10% to Attack stat"
+  },
+  {
+    "InternalName": "PAL_ALLAttack_down2",
+    "FriendlyName": "Pacifist",
+    "SuggestedRating": -3,
+    "Description": "-20% to Attack stat"
+  },
+  {
+    "InternalName": "Deffence_up1",
+    "FriendlyName": "Hard Skin",
+    "SuggestedRating": 1,
+    "Description": "+10% to Defence stat"
+  },
+  {
+    "InternalName": "Deffence_up2",
+    "FriendlyName": "Burly Body",
+    "SuggestedRating": 3,
+    "Description": "+20% to Defence stat"
+  },
+  {
+    "InternalName": "Deffence_down1",
+    "FriendlyName": "Downtrodden",
+    "SuggestedRating": -1,
+    "Description": "-10% to Defence stat"
+  },
+  {
+    "InternalName": "Deffence_down2",
+    "FriendlyName": "Brittle",
+    "SuggestedRating": -3,
+    "Description": "-20% to Defence stat"
+  },
+  {
+    "InternalName": "TrainerMining_up1",
+    "FriendlyName": "Mine Foreman",
+    "SuggestedRating": 3,
+    "Description": "+25% to Player mining efficiency"
+  },
+  {
+    "InternalName": "TrainerLogging_up1",
+    "FriendlyName": "Logging Foreman",
+    "SuggestedRating": 3,
+    "Description": "+25% to Player logging efficiency"
+  },
+  {
+    "InternalName": "TrainerATK_UP_1",
+    "FriendlyName": "Vanguard",
+    "SuggestedRating": 3,
+    "Description": "+10% to Player attack stat"
+  },
+  {
+    "InternalName": "TrainerWorkSpeed_UP_1",
+    "FriendlyName": "Motivational Leader",
+    "SuggestedRating": 3,
+    "Description": "+25% to Player move speed"
+  },
+  {
+    "InternalName": "TrainerDEF_UP_1",
+    "FriendlyName": "Stronghold Strategist",
+    "SuggestedRating": 3,
+    "Description": "+10% to Player defence stat"
+  },
+  {
+    "InternalName": "PAL_Sanity_Down_1",
+    "FriendlyName": "Positive Thinker",
+    "SuggestedRating": 1,
+    "Description": "Sanity drops 10% slower"
+  },
+  {
+    "InternalName": "PAL_Sanity_Down_2",
+    "FriendlyName": "Workaholic",
+    "SuggestedRating": 3,
+    "Description": "Sanity drops 15% slower"
+  },
+  {
+    "InternalName": "PAL_Sanity_Up_1",
+    "FriendlyName": "Unstable",
+    "SuggestedRating": -1,
+    "Description": "Sanity drops 10% faster"
+  },
+  {
+    "InternalName": "PAL_Sanity_Up_2",
+    "FriendlyName": "Destructive",
+    "SuggestedRating": -2,
+    "Description": "Sanity drops 15% faster"
+  },
+  {
+    "InternalName": "PAL_FullStomach_Down_1",
+    "FriendlyName": "Dainty Eater",
+    "SuggestedRating": 1,
+    "Description": "Hunger drops 10% slower"
+  },
+  {
+    "InternalName": "PAL_FullStomach_Down_2",
+    "FriendlyName": "Diet Lover",
+    "SuggestedRating": 3,
+    "Description": "Chance to lose hunger -15%"
+  },
+  {
+    "InternalName": "PAL_FullStomach_Up_1",
+    "FriendlyName": "Glutton",
+    "SuggestedRating": -1,
+    "Description": "Hunger drops 10% faster"
+  },
+  {
+    "InternalName": "PAL_FullStomach_Up_2",
+    "FriendlyName": "Bottomless Stomach",
+    "SuggestedRating": -2,
+    "Description": "Hunger drops 15% faster"
+  },
+  {
+    "InternalName": "CraftSpeed_up1",
+    "FriendlyName": "Serious",
+    "SuggestedRating": 2,
+    "Description": "+20% work speed"
+  },
+  {
+    "InternalName": "CraftSpeed_up2",
+    "FriendlyName": "Artisan",
+    "SuggestedRating": 3,
+    "Description": "+50% work speed"
+  },
+  {
+    "InternalName": "CraftSpeed_down1",
+    "FriendlyName": "Clumsy",
+    "SuggestedRating": -1,
+    "Description": "-10% work speed"
+  },
+  {
+    "InternalName": "CraftSpeed_down2",
+    "FriendlyName": "Slacker",
+    "SuggestedRating": -3,
+    "Description": "-30% work speed"
+  },
+  {
+    "InternalName": "MoveSpeed_up_1",
+    "FriendlyName": "Nimble",
+    "SuggestedRating": 1,
+    "Description": "+10% movement speed"
+  },
+  {
+    "InternalName": "MoveSpeed_up_2",
+    "FriendlyName": "Runner",
+    "SuggestedRating": 2,
+    "Description": "+20% movement speed"
+  },
+  {
+    "InternalName": "MoveSpeed_up_3",
+    "FriendlyName": "Swift",
+    "SuggestedRating": 3,
+    "Description": "+30% movement speed"
+  },
+  {
+    "InternalName": "PAL_CorporateSlave",
+    "FriendlyName": "Work Slave",
+    "SuggestedRating": 1,
+    "Description": "+30% work speed, -30% attack"
+  },
+  {
+    "InternalName": "PAL_rude",
+    "FriendlyName": "Hooligan",
+    "SuggestedRating": 1,
+    "Description": "+15% attack, -10% work speed"
+  },
+  {
+    "InternalName": "Noukin",
+    "FriendlyName": "Musclehead",
+    "SuggestedRating": 2,
+    "Description": "+30% attack, -50% work speed"
+  },
+  {
+    "InternalName": "PAL_oraora",
+    "FriendlyName": "Aggressive",
+    "SuggestedRating": 1,
+    "Description": "+10% attack, -20% defence"
+  },
+  {
+    "InternalName": "PAL_conceited",
+    "FriendlyName": "Conceited",
+    "SuggestedRating": 1,
+    "Description": "+10% work speed, -20% defence"
+  },
+  {
+    "InternalName": "PAL_masochist",
+    "FriendlyName": "Masochist",
+    "SuggestedRating": 1,
+    "Description": "+15% defence, -15% attack"
+  },
+  {
+    "InternalName": "PAL_sadist",
+    "FriendlyName": "Sadist",
+    "SuggestedRating": 1,
+    "Description": "+15% attack, +15% defence"
+  },
+  {
+    "InternalName": "Rare",
+    "FriendlyName": "Lucky",
+    "SuggestedRating": 3,
+    "Description": "+15% attack, +15% work speed"
+  },
+  {
+    "InternalName": "Legend",
+    "FriendlyName": "Legend",
+    "SuggestedRating": 3,
+    "Description": "+20% attack, +20% defence, +15% move speed"
+  },
+  {
+    "InternalName": "Witch",
+    "FriendlyName": "Siren of the Void",
+    "SuggestedRating": 3,
+    "Description": "20% increase to Dark attack damage, 20% increase to Ice attack damage."
+  },
+  {
+    "InternalName": "Nocturnal",
+    "FriendlyName": "Nocturnal",
+    "SuggestedRating": 1,
+    "Description": "Does not sleep and continues to work even at night."
+  },
+  {
+    "InternalName": "CoolTimeReduction_Up_2",
+    "FriendlyName": "Impatient",
+    "SuggestedRating": 1,
+    "Description": "Active skill cooldown reduction 15%"
+  },
+  {
+    "InternalName": "NonKilling",
+    "FriendlyName": "Mercy Hit",
+    "SuggestedRating": -1,
+    "Description": "Pacifist. Will not reduce the target's Health below 1."
+  },
+  {
+    "InternalName": "EternalFlame",
+    "FriendlyName": "Eternal Flame",
+    "SuggestedRating": 3,
+    "Description": "30% increase to Fire attack damage. 30% increase to Lightning attack damage."
+  },
+  {
+    "InternalName": "CoolTimeReduction_Up_1",
+    "FriendlyName": "Serenity",
+    "SuggestedRating": 3,
+    "Description": "Active skill cooldown reduction 30%. Attack +10%"
+  },
+  {
+    "InternalName": "Test_PalEgg_HatchingSpeed_Up",
+    "FriendlyName": "Philanthropist",
+    "SuggestedRating": 3,
+    "Description": "When assigned to a Breeding Farm, egg production time is reduced by 100%."
+  },
+  {
+    "InternalName": "Stamina_Up_1",
+    "FriendlyName": "Infinite Stamina",
+    "SuggestedRating": 3,
+    "Description": "Max stamina +50% *This effect is only valid for rideable pals."
+  },
+  {
+    "InternalName": "SalePrice_Up_1",
+    "FriendlyName": "Noble",
+    "SuggestedRating": 3,
+    "Description": "Sale price +5%"
+  },
+  {
+    "InternalName": "Stamina_Up_2",
+    "FriendlyName": "Fit as a Fiddle",
+    "SuggestedRating": 1,
+    "Description": "Max stamina +25% *This effect is only valid for rideable pals."
+  },
+  {
+    "InternalName": "SalePrice_Up_2",
+    "FriendlyName": "Fine Furs",
+    "SuggestedRating": 3,
+    "Description": "Sale price +3%"
+  },
+  {
+    "InternalName": "Alien",
+    "FriendlyName": "Otherworldly Cells",
+    "SuggestedRating": 3,
+    "Description": "Attack +10%; Fire damage reduction 15%; Lightning damage reduction 15%"
+  },
+  {
+    "InternalName": "Stamina_Down_1",
+    "FriendlyName": "Sickly",
+    "SuggestedRating": -1,
+    "Description": "Max Stamina -25% *This effect is only valid for rideable pals."
+  },
+  {
+    "InternalName": "SalePrice_Down_1",
+    "FriendlyName": "Shabby",
+    "SuggestedRating": -1,
+    "Description": "Sale price -10%"
+  },
+  {
+    "InternalName": "CoolTimeReduction_Down_1",
+    "FriendlyName": "Easygoing",
+    "SuggestedRating": -1,
+    "Description": "Active skill cooldown extension -15%"
+  }
+]

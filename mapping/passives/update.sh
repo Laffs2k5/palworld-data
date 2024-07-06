@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
-# all credits goes to to https://github.com/KrisCris/Palworld-Pal-Editor
+# all credits goes to https://github.com/KrisCris/Palworld-Pal-Editor
 
 thisScriptDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 
